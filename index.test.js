@@ -1,6 +1,6 @@
 
 const sum =require("./index");
-const {test, expect,describe}= require("@jest/globals");
+const {test, expect,describe}= require("@jest/globals"); //not need tobe import but it gives you the auto suggestion
 
 
 describe("Testing the sum function with number",()=>{
