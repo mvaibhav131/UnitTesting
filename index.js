@@ -8,3 +8,5 @@ function sum(a,b){
 }
 module.exports=sum;
 // console.log(sum(9,5));
+
+//expected sum is getting in test output
